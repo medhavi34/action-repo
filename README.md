@@ -5,4 +5,4 @@ This is a repository to deal with Github actions using Github webhooks on pull r
 
 I am writing some more jargon, just to make the repos not identical. 
 
-Reupdating new branch!
+Updates to the new branch!
